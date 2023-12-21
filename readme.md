@@ -23,6 +23,7 @@ Instructions in the RISK-XVII instruction set architecture are encoded into 4 by
 instruction can access different parts of the system, seven types of encoding formats were designed
 to best utilize the 32 bits of data to represent the operations specified by each instruction: R, I, S, SB,
 U, UJ. The exact binary format of each encoding type can be found in the table below.:
+
 |Type |||||Format|
 |------|------|------|------|------|-------|
 ||31 25 |24 20 |19 15| 14 12| 11 7| 6 0|
